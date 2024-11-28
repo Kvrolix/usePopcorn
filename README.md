@@ -125,11 +125,17 @@ This project allowed me to explore and implement the following React concepts an
 ---
 
 ## 📷 Screenshots
+
 ![emptyApp](assets/image1.PNG)
+
 ![search](assets/image2.PNG)
+
 ![searchResult](assets/image3.PNG)
+
 ![ratedMoview](assets/image4.PNG)
+
 ![moviesList](assets/image5.PNG)
+
 
 ---
 
