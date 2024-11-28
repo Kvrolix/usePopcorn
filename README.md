@@ -126,15 +126,15 @@ This project allowed me to explore and implement the following React concepts an
 
 ## 📷 Screenshots
 
-![emptyApp](assets/image1.PNG)
+![emptyApp](assets/Image1.PNG)
 
-![search](assets/image2.PNG)
+![search](assets/Image2.PNG)
 
-![searchResult](assets/image3.PNG)
+![searchResult](assets/Image3.PNG)
 
-![ratedMoview](assets/image4.PNG)
+![ratedMovie](assets/Image4.PNG)
 
-![moviesList](assets/image5.PNG)
+![moviesList](assets/Image5.PNG)
 
 
 ---
@@ -148,14 +148,6 @@ The project have been completed during the Jonas Schmedtmann course.
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-For any questions or suggestions, reach out to me at:
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
 ---
 
