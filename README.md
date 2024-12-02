@@ -1,4 +1,4 @@
-# 🎥 Movie Watchlist App
+# 🎥 usePopcorn App
 
 The **usePopcorn** is a React-based application designed to help users search for movies, view details, and maintain a personalized watchlist. With dynamic data fetching from the OMDb API, users can efficiently browse, add, and manage their movie collections, along with ratings and summaries.
 
